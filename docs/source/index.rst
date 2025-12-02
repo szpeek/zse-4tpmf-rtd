@@ -3,7 +3,7 @@ Strona Główna
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 2
 
    Strona Główna <index>
    Sprawozdanie RtD <sprawozdanie>
