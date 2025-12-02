@@ -2,9 +2,7 @@ Sprawozdanie RtD
 ===================================
 
 .. toctree::
-   :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 2
+   :caption: Spis treści:
 
-   Strona Główna <index>
-   Sprawozdanie RtD <skladnia>
-   Kontakt <kontakt>
+   sprawozdanie
