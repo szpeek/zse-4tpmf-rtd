@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'zse-4tpjm17-rtd'
+copyright = '2025, Maciej Fleischer'
+author = 'Maciej Fleischer'
 
 release = '0.1'
 version = '0.1.0'
