@@ -6,5 +6,5 @@ Sprawozdanie RtD
    :maxdepth: 1
 
    Strona Główna <index>
-   Sprawozdanie RtD <sprawozdanie>
+   Sprawozdanie RtD <skladnia>
    Kontakt <kontakt>
