@@ -2,34 +2,34 @@
  Sprawozdanie RtD
 =====================
 
-===========================
+---------------------------------
  Nagłówki tekstowe (H1–H4)
-===========================
+---------------------------------
 
 Nagłówek poziomu 1
-==================
-
-Nagłówek poziomu 2
 ------------------
 
-Nagłówek poziomu 3
+Nagłówek poziomu 2
 ~~~~~~~~~~~~~~~~~~
 
-Nagłówek poziomu 4
+Nagłówek poziomu 3
 ^^^^^^^^^^^^^^^^^^
 
+Nagłówek poziomu 4
+""""""""""""""""""
 
-===========================
+
+---------------------------------
  Akapit tekstowy (treść)
-===========================
+---------------------------------
 
 To jest zwykły akapit tekstu w reStructuredText.  
 Może zawierać **pogrubienia**, *kursywę* itd.
 
 
-======================================
+-----------------------------------------------
  Akapit informacyjny: Note, Tip, etc.
-======================================
+-----------------------------------------------
 
 .. note::
 
@@ -44,9 +44,9 @@ Może zawierać **pogrubienia**, *kursywę* itd.
    To jest blok typu *Warning*.
 
 
-========================================
+------------------------------------------------------
  Fragmenty kodu – inline i blokowe
-========================================
+------------------------------------------------------
 
 Inline: ``print("Hello")``
 
@@ -64,9 +64,9 @@ Blok z podświetlaniem składni:
        print("Hello, world!")
 
 
-========================================
+------------------------------------------------------
  Odnośniki – lokalne i zewnętrzne
-========================================
+------------------------------------------------------
 
 Odnośnik lokalny (do innej strony RtD):
 
@@ -81,16 +81,16 @@ Definicja etykiety sekcji:
 .. _etykieta_sekcji:
 
 Nagłówek sekcji
-----------------
+~~~~~~~~~~~~~~~~
 
 Odnośnik zewnętrzny:
 
 `OpenAI <https://www.openai.com>`_
 
 
-==============================
+----------------------------------------------
  Listy: wypunktowana, numerowana
-==============================
+----------------------------------------------
 
 Lista wypunktowana:
 
@@ -113,9 +113,9 @@ Termin 2
    Definicja terminu 2.
 
 
-==========================
+---------------------------------
  Obraz z alt i podpisem
-==========================
+---------------------------------
 
 .. figure:: images/example.png
    :alt: Przykładowy obrazek
@@ -124,9 +124,9 @@ Termin 2
    Podpis pod obrazem.
 
 
-===========
+---------------------
  Tabela
-===========
+---------------------
 
 Prosta tabela gridowa:
 
@@ -146,5 +146,6 @@ Kolumna 1    Kolumna 2
 Wartość A     Wartość B
 Wartość C     Wartość D
 ===========  ===========
+
 
 
