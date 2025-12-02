@@ -124,7 +124,7 @@ Termin 2
  Obraz z alt i podpisem
 ---------------------------------
 
-.. figure:: images/example.png
+.. figure:: image.jpg
    :alt: Przykładowy obrazek
    :width: 70%
 
