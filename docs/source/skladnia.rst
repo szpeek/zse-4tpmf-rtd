@@ -6,17 +6,25 @@
  Nagłówki tekstowe (H1–H4)
 ---------------------------------
 
-Nagłówek poziomu 1
-------------------
+.. code-block:: rst
 
-Nagłówek poziomu 2
-~~~~~~~~~~~~~~~~~~
+   Nagłówek poziomu 1
+   ==================
 
-Nagłówek poziomu 3
-^^^^^^^^^^^^^^^^^^
+.. code-block:: rst
 
-Nagłówek poziomu 4
-""""""""""""""""""
+   Nagłówek poziomu 2
+   ------------------
+
+.. code-block:: rst
+
+   Nagłówek poziomu 3
+   ~~~~~~~~~~~~~~~~~~
+
+.. code-block:: rst
+
+   Nagłówek poziomu 4
+   ^^^^^^^^^^^^^^^^^^
 
 
 ---------------------------------
